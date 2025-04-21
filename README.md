@@ -1,4 +1,4 @@
-# multi-agent-resume-optimization-tool
+# Multi-agent-resume-optimization-tool
 
 # 🧠 AI-Powered Resume Optimizer (LaTeX + Gemini + Flask)
 
